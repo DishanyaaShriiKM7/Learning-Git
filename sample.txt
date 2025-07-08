@@ -1,0 +1,2 @@
+Sample text file for practicing git
+Learning is an art and this journey will cherish forever with git
